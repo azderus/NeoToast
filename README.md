@@ -30,12 +30,12 @@ Key highlights:
 
 ## Installation
 
-1. Download `toast.js` file
+1. Download `NeoToast.js` file
 2. Add it to your project
 3. Include the script in your HTML:
 
 ```html
-<script src="path/to/toast.js"></script>
+<script src="path/to/NeoToast.js"></script>
 ```
 
 ## Usage
