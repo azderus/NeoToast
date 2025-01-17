@@ -38,6 +38,12 @@ Key highlights:
 <script src="path/to/NeoToast.js"></script>
 ```
 
+Alternatively, use the CDN:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/azderus/NeoToast@main/NeoToast.js"></script>
+```
+
 ## Usage
 
 ### Basic Usage
@@ -117,4 +123,4 @@ Created by Azderus
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! 
+Feel free to submit issues and enhancement requests!
